@@ -1,6 +1,6 @@
 -👋 Hi, I’m Soniya
 - 👀 I’m passionate about coding, especially Python and learning new technologies.
-- 🌱 I’m currently working on improving my Python skills and exploring web development (or whatever area you're focusing on).
+- 🌱 I’m currently working on improving my Python skills and exploring web development.
 - 🔭 I’m also interested in data science and automation projects.
 - 💻 I’m building projects to practice and share on GitHub.
 - 📫 How to reach me: soniyagoru@gmail.com
